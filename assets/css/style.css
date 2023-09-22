@@ -16,6 +16,7 @@ body {
 /* Styling for the banner section */
 .banner {
     background-color: black;
+    background-image: url("../images/banner.webp");
     height: 100vh;
     width: 100%;
     background-position: center;
@@ -30,4 +31,17 @@ body {
     padding: 32px 0;
     align-items: center;
     justify-content: space-between;
+} 
+/* Styling for the navigation lists */
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Styling for list items in the navigation */
+.navbar li {
+    display: inline;
+    margin-right: 20px;
 }
