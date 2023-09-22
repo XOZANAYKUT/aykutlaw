@@ -129,4 +129,9 @@ footer {
     color: black;
     padding: 5px;
     margin: 9px;
+} 
+/* Styling for the main content section */
+main {
+    flex: 1 0 auto;
+    margin-top: 15px;
 }
