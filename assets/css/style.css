@@ -241,3 +241,84 @@ input[type="submit"] {
 input[type="submit"]:hover {
     background-color: black;
 }
+/* Styling for the map section */
+#map-wrapper {
+    text-align: center;
+}
+
+#map {
+    border: none;
+}
+ /* Large screens (1200 pixels and above) */
+ @media screen and (min-width: 1200px) {
+     .navbar {
+         padding: 32px 0;
+     }
+
+     .services {
+         width: 15%;
+     }
+
+
+ }
+ /* Medium-sized screens (992 to 1199 pixels) */
+ @media screen and (min-width: 992px) and (max-width: 1199px) {
+     .navbar {
+         padding: 24px 0;
+     }
+
+
+     .services {
+         width: 20%;
+     }
+
+ }
+ /* Laptops (768 to 991 pixels) */
+ @media screen and (min-width: 768px) and (max-width: 991px) {
+     body {
+         font-size: 16px;
+     }
+
+     .navbar {
+         padding: 20px 0;
+     }
+
+     .services {
+         width: 25%;
+     }
+
+ }
+  /* Tablets and small laptops (576 to 767 pixels) */
+  @media screen and (min-width: 576px) and (max-width: 767px) {
+      body {
+          font-size: 14px;
+      }
+
+      .navbar {
+          padding: 16px 0;
+      }
+
+      .services {
+          width: 50%;
+      }
+
+  }
+
+  /* Mobile devices (575 pixels and below) */
+  @media screen and (max-width: 575px) {
+      body {
+          font-size: 14px;
+      }
+
+      .navbar {
+          padding: 16px 0;
+      }
+
+      #contact {
+          top: 10%;
+      }
+
+      .services {
+          width: 100%;
+      }
+  }
