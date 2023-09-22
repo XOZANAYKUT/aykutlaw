@@ -45,3 +45,14 @@ body {
     display: inline;
     margin-right: 20px;
 }
+
+/* Styling for navigation links */
+.navbar a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 700;
+}
+/* Hover effect for navigation links */
+.navbar a:hover {
+    color: grey;
+}
