@@ -137,7 +137,7 @@ main {
 }
 /* Styling for the About Us page */
 #aboutus {
-    background-image: url("../image/cover-scale.jpg");
+    background-image: url("../images/background-aboutus.webp");
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: auto;
