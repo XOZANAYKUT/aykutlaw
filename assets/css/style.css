@@ -143,7 +143,7 @@ main {
     margin-top: auto;
 }
 
-/* Styling for the intro section on About Us page */
+/* "Styling for the intro section on About Us page" */
 #intro {
     background-color: rgba(60, 60, 60, 0.4);
     width: 100%;
@@ -161,4 +161,33 @@ main {
     text-align: center;
     color: #ffffff;
     margin: 17px;
+}
+/* Styling for the services section */
+#services-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.services {
+    background-color: rgba(60, 60, 60, 0.4);
+    text-align: center;
+    border: 1px solid #ffffff;
+    padding: 10px;
+    margin: 10px;
+    flex-basis: 500px;
+    flex-grow: 2;
+}
+
+.services h2 {
+    font-size: 100%;
+    margin-bottom: 10px;
+    color: #ffffff;
+}
+
+.services p {
+    font-size: 70%;
+    color: #ffffff;
+    padding: 2px;
+    margin: 1px;
 }
