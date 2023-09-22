@@ -135,3 +135,30 @@ main {
     flex: 1 0 auto;
     margin-top: 15px;
 }
+/* Styling for the About Us page */
+#aboutus {
+    background-image: url("../image/cover-scale.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: auto;
+}
+
+/* Styling for the intro section on About Us page */
+#intro {
+    background-color: rgba(60, 60, 60, 0.4);
+    width: 100%;
+}
+
+#intro h2 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 200%;
+    padding: 20px;
+    margin: 47px 17px 17px;
+}
+
+#intro p {
+    text-align: center;
+    color: #ffffff;
+    margin: 17px;
+}
