@@ -1,0 +1,12 @@
+/* Reset CSS for all elements */
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+/* Styling for the entire body */
+body {
+    font-family: 'Montserrat', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
