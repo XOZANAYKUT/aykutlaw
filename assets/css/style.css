@@ -57,6 +57,40 @@ body {
     color: grey;
 }
 
+/* Styling for the about us and contact navbar */
+#navbar-two {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin: 0;
+    padding: 32px 0;
+    background-color: grey;
+    height: 35px;
+    position: fixed;
+}
+
+#navbar-two ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling for list items in the navigation */
+#navbar-two li {
+    display: inline;
+    margin-right: 20px;
+}
+/* Styling for navigation links */
+#navbar-two a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 700;
+}
+#navbar-two a:hover {
+    color: black;
+}
 /* Styling for the contact section */
 .contact {
     width: 100%;
