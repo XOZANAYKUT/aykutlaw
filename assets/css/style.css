@@ -304,21 +304,4 @@ input[type="submit"]:hover {
 
   }
 
-  /* Mobile devices (575 pixels and below) */
-  @media screen and (max-width: 575px) {
-      body {
-          font-size: 14px;
-      }
-
-      .navbar {
-          padding: 16px 0;
-      }
-
-      #contact {
-          top: 10%;
-      }
-
-      .services {
-          width: 100%;
-      }
-  }
+  
