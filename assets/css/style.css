@@ -56,3 +56,20 @@ body {
 .navbar a:hover {
     color: grey;
 }
+
+/* Styling for the contact section */
+.contact {
+    width: 100%;
+    position: absolute;
+    top: 40%;
+    color: white;
+    text-align: center;
+}
+
+.contact h1 {
+    font-size: 65px;
+}
+
+.contact p {
+    margin: 20px auto;
+}
