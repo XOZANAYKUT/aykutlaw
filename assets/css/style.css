@@ -213,7 +213,7 @@ main {
     padding: 20px;
     border: 1px solid #ccc;
     border-radius: 20px;
-    background-color: rgba(249, 249, 249, 0.8);
+    background-color: rgba(249, 249, 249, 0.7);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     margin-top: 40px;
 }
@@ -225,6 +225,7 @@ form {
 label {
     display: block;
     margin-bottom: 10px;
+    font-weight: bold;
 }
 
 input[type="text"],
@@ -244,6 +245,7 @@ input[type="submit"] {
     border-radius: 40px;
     padding: 10px 20px;
     font-size: 16px;
+    font-weight: bold;
 }
 
 /* Hover effect for the submit button */
