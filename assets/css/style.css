@@ -276,6 +276,13 @@ input[type="submit"]:hover {
     background-size: cover;
 
 }
+.contact-return p {
+    font-size: 16px;
+    color: white;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 50%;
+}
   /* Large screens (1200 pixels and above) */
  @media screen and (min-width: 1200px) {
      .navbar {
