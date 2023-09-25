@@ -29,7 +29,7 @@ ____
 
 - Furthermore, clients can learn more about the members of the firm and there is an image highlighting their areas of expertise.
 
-![aboutus](media/aykrdmpng2.png)
+![aboutus](media/aboutus4.png)
 ____
  ## The Footer
  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
