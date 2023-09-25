@@ -257,8 +257,7 @@ input[type="submit"]:hover {
     text-align: center;
 }
 
-
- /* Large screens (1200 pixels and above) */
+  /* Large screens (1200 pixels and above) */
  @media screen and (min-width: 1200px) {
      .navbar {
          padding: 32px 0;
@@ -330,4 +329,4 @@ input[type="submit"]:hover {
          width: 100%;
      }
  }
-  
+       
