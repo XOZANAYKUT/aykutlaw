@@ -6,7 +6,7 @@ Aykut Law & Consultancy, is designed as the website of a law and consultancy fir
 Aykut Law & Consultancy is a website that aims to provide comprehensive legal services for individuals and businesses with legal needs. This project aims to provide customers with information in the field of law, enable them to learn more about the firm and encourage them to contact the firm to solve their legal problems.
 ____
 
-![mockup](media/rdm.png)
+![mockup](media/mockup2.png)
 ____
 
 ## Existing Features
@@ -29,7 +29,7 @@ ____
 
 - Furthermore, clients can learn more about the members of the firm and there is an image highlighting their areas of expertise.
 
-![aboutus](media/aykrdmpng2.png)
+![aboutus](media/aboutus4.png)
 ____
  ## The Footer
  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
@@ -43,7 +43,7 @@ ____
 
 - Contact Form: The contact section usually includes a contact form. This form allows users to enter their name, email address, contact information and the message they want to convey. The form should have a user-friendly interface so that users can easily communicate their message.
 
-![contact](media/aykrdm.png3.png)
+![contact](media/contactnew.png")
 ____
 ## Address
 - Phone Number: The contact section should also include the phone number of the business. Users may want to contact by phone in case of emergencies or for faster responses.
