@@ -267,6 +267,15 @@ input[type="submit"]:hover {
     text-align: center;
     background-color: rgba(60, 60, 60, 0.6);
 }
+.contact-return {
+    background-image: url("../images/background-return.jpg");
+    background-color: black;
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+
+}
   /* Large screens (1200 pixels and above) */
  @media screen and (min-width: 1200px) {
      .navbar {
