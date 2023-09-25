@@ -213,7 +213,7 @@ main {
     padding: 20px;
     border: 1px solid #ccc;
     border-radius: 20px;
-    background-color: rgba(249, 249, 249, 0.8);
+   
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     margin-top: 40px;
 }
