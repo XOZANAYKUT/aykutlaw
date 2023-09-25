@@ -200,7 +200,8 @@ main {
     align-items: center;
     height: 500px;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 20px; 
+    
 }
 
 
@@ -209,7 +210,7 @@ main {
     max-width: 600px;
     padding: 20px;
     border: 1px solid #ccc;
-    border-radius: 10px;
+    border-radius: 20px;
     background-color: #f9f9f9;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     margin-top: 40px;
@@ -231,14 +232,14 @@ textarea {
     padding: 10px;
     margin-bottom: 20px;
     border: 1px solid #ccc;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 input[type="submit"] {
     background-color: grey;
     color: #fff;
     border: none;
-    border-radius: 5px;
+    border-radius: 40px;
     padding: 10px 20px;
     font-size: 16px;
 }
@@ -258,8 +259,13 @@ input[type="submit"]:hover {
 
 .text-center
 {
-    background-color: rgba(60, 60, 60, 0.6);
-    text-align: center;
+        max-width: 600px;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 20px;
+        background-color: #f9f9f9;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        margin-top: 40px;
 }
 /* Styling for the  return.html */
 .contact-return .contact {
