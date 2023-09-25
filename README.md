@@ -43,7 +43,7 @@ ____
 
 - Contact Form: The contact section usually includes a contact form. This form allows users to enter their name, email address, contact information and the message they want to convey. The form should have a user-friendly interface so that users can easily communicate their message.
 
-![contact](media/contactnew.png")
+![contact](media/contactnew.png)
 ____
 ## Address
 - Phone Number: The contact section should also include the phone number of the business. Users may want to contact by phone in case of emergencies or for faster responses.
