@@ -259,14 +259,14 @@ input[type="submit"]:hover {
 
 .text-center
 {
-        max-width: 600px;
-        padding: 20px;
-        border: 1px solid #ccc;
-        border-radius: 20px;
-        background-color: #f9f9f9;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-        margin-top: 40px;
+
+        text-align: center;
+        padding: 20px; 
+
+       
 }
+
+
 /* Styling for the  return.html */
 .contact-return .contact {
     width: 100%;
