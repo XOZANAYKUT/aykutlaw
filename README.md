@@ -105,7 +105,7 @@ ____
 ### About Us page performance
 
 ![Aboutus](media/prfabout.png)
-![Aboutus](media/prfabout.png)
+![Aboutus](media/prfaboutus2.png)
 ____
 ### Contact page performance
 
