@@ -99,8 +99,8 @@ ____
 ## performance
 ### Home page performance
 
-![home](media/homepage.png)
-![home](media/homepage2.png)
+![home](media/hmdsk.png)
+![home](media/hmprf.png)
 ____
 ### About Us page performance
 
