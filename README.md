@@ -109,5 +109,5 @@ ____
 ____
 ### Contact page performance
 
-![Contact](media/contact.png)
-![Contact](media/contact2.png)
+![Contact](media/cnt.png)
+![Contact](media/cnt2.png)
