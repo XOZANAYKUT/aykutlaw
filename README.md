@@ -60,7 +60,7 @@ ____
 ![map](media/map.png)
 ____
 ## Features Left to Implement
-- To ingrate a calendar to book a call
+- To integrate a calendar to book a call
 
 - To add feedback from clients and case studies
 
@@ -82,10 +82,11 @@ ____
 - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 - The live link can be found here-
 
-[https://xozanaykut.github.io/aykutlaw/index.html](https://xozanaykut.github.io/aykutlaw/index.html)
+[https://xozanaykut.github.io/aykutlaw/index.html](https://xozanaykut.github.io/aykutlaw/index.html
 ____
-## Content
-- Instructions on how to apply form verification on the Register page are taken from 
+## Credits
+## content
+-  Instructions on how to apply form verification on the Register page are taken from 
 [Btkakademi](https://www.btkakademi.gov.tr)
 
 - Icons in the footer taken from 
@@ -95,6 +96,9 @@ ___
 - Image used on homepage and registration page taken from [Pexels](https://www.pexels.com/)
 
 - The image used for the About Us page was taken from the website [Pexels](https://www.pexels.com/)
+  
+- The image used for the return page was taken from the website [Pexels](https://www.pexels.com/)
+
 ____
 ## performance
 ### Home page performance
