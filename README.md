@@ -52,7 +52,7 @@ ____
 
 - Physical Address (Optional): If the business operates from a physical location, the address of this location can be shared in the contact section. This can make it easier for local customers to visit the business.
 
-![addres](media/adres.png)
+![addres](media/adrs.png)
 ____
 ## Map
 - Map (Optional): If the business has a physical location, a map can be included in the contact section. This shows visitors the location of the business and can provide directions.
