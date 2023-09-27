@@ -116,5 +116,10 @@ ___
   
 - The image used for the return page was taken from the website [Pexels](https://www.pexels.com/)
 
+- Favicon was downloaded at [Icons8](https://icons8.com/icons/set/book)
+
+- Icons in the Aboutus taken from
+[Font Awesome](https://fontawesome.com)
+
 - Icons in the footer taken from
 [Font Awesome](https://fontawesome.com)
